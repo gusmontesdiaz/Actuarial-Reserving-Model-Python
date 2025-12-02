@@ -19,7 +19,7 @@ The core of the project involves a complex reserve calculation process:
 2.  **Iterative Reserve Calculation:** The model performs iterative calculations across periods to determine the necessary reserve amount (`reservas[i]`) at various points in time. The process involves precise index-based subtraction and summation of cash flows.
 3.  **Output:** The final output is the calculated reserve figure, essential for financial reporting and solvency checks.
 
-## ✨ Competencies Showcased for the Analyst Role
+## ✨ Competencies Showcased.
 
 * **Core Actuarial Function:** Direct experience in programming a model for financial/technical reserve calculation—a high-value skill for any insurance or risk-related position.
 * **Structured Data Management:** Proven proficiency in using `pandas` for complex financial data manipulation, moving beyond basic data entry.
